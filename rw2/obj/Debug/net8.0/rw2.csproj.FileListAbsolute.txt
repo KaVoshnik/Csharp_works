@@ -1,0 +1,14 @@
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\rw2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\rw2.AssemblyInfoInputs.cache
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\rw2.AssemblyInfo.cs
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\rw2.csproj.CoreCompileInputs.cache
+C:\Users\KaVo\C# Learn\rw2\bin\Debug\net8.0\rw2.exe
+C:\Users\KaVo\C# Learn\rw2\bin\Debug\net8.0\rw2.deps.json
+C:\Users\KaVo\C# Learn\rw2\bin\Debug\net8.0\rw2.runtimeconfig.json
+C:\Users\KaVo\C# Learn\rw2\bin\Debug\net8.0\rw2.dll
+C:\Users\KaVo\C# Learn\rw2\bin\Debug\net8.0\rw2.pdb
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\rw2.dll
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\refint\rw2.dll
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\rw2.pdb
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\rw2.genruntimeconfig.cache
+C:\Users\KaVo\C# Learn\rw2\obj\Debug\net8.0\ref\rw2.dll
